@@ -16,11 +16,11 @@ const Experience = () => {
             </Typography>
 
             <Typography variant='p'>
-                <Typography variant='p' sx={{fontWeight:'bolder'}}>Main Task: </Typography> Designing and implementing UI components for JavaScript-based web applications with the use of <br /> open-source library infrastructure.
+                <Typography variant='p' sx={{fontWeight:'bolder'}}>Main Task: </Typography> Designing and implementing UI components for JavaScript-based web applications with the use of open-source library infrastructure.
             </Typography>
 
             <Typography variant='p'>
-                <Typography variant='p' sx={{fontWeight:'bolder'}}>Date: </Typography> April 12 - Present
+                <Typography variant='p' sx={{fontWeight:'bolder'}}>Date: </Typography> April 13 - Present
             </Typography>
         </Stack>
     </div>
