@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App">
      
-        <Box sx={{padding:'60px', maxWidth: '450px', borderRadius:'10px', bgcolor: '#F8F9FA' }}>
+        <Box sx={{padding:'60px', maxWidth: '450px',minWidth: '100px', borderRadius:'10px', bgcolor: '#F8F9FA' }}>
           <Contact />
           <Education />
           <Experience />
